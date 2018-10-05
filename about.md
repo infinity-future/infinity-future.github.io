@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+无尽未来科技，在这里，只关注未来
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+主要关注：AI、智能、金融、人机交互、未来
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[infinityfuture@foxmail.com](mailto:infinityfuture@foxmail.com)
